@@ -321,37 +321,5 @@ Text 2: "I love pizza and pasta for dinner"
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/new-feature`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/new-feature`)
-5. Create Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Support & Contact
-
-- **Issues**: Open an issue on GitHub
-- **Documentation**: Check `examples.md` for testing scenarios  
-- **Performance**: See troubleshooting section above
-
----
-
-## ⭐ Acknowledgments
-
-- **Sentence Transformers**: HuggingFace for powerful embedding models
-- **PyTorch**: Meta for the deep learning framework
-- **Chakra UI**: For the beautiful React component library
-- **Flask**: For the simple and powerful web framework
-
----
 
 **🎯 Ready to detect semantic plagiarism with AI precision!** 🚀 
